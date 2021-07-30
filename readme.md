@@ -14,7 +14,7 @@
 ## More about Ruby
 -- It is a robust, dynamically typed, and object-oriented language
 
--- Nothing called as variable types, everything is a object
+-- Ruby is a true object oriented language , Nothing called as variable types, everything is a object
 
 -- Ruby does not support method overloading as its a dynamically  typed language
     The most recent version of the method is considered while ignoring the previously defined versions of the method.
@@ -37,3 +37,7 @@
 
 ## Reference
 https://www.rubyguides.com/ruby-tutorial/thinking-like-programmer/
+
+https://dev.to/dej/encapsulation-polymorphism-and-abstraction-in-ruby-41ia
+
+
