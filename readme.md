@@ -1,36 +1,19 @@
-## Design Pattern
-1.What is design pattern?
+## About this project
 
-    - A general repeatable solution for commonly occuring problem  
-    - Its not piece of code you can use to solve the repoblem rather its a template which tell you how to solve the problem
-  
-2.Types of design patterns:
+    This project is built to lean basics of ruby and Oops concept in ruby . Each topic is explained in differnt ruby files with comments . Comments ellaborate about concepts behind the code
 
-Creational design patterns 
+## How to run
+    Just clone this project and run individual ruby files
 
-Structural design patterns
+## Environement
+    Minimum requirement to use this project is only ruby . You can use command prompt or any IDE for your preference . I used VSCode with extensions ruby and code runner
+    
+    https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner 
+    https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby 
 
-Behavioral design patterns
+## More about Ruby
+-- It is a robust, dynamically typed, and object-oriented language
 
-3.Benefits of DP:
-
-    - Helps to communicate ideas in standard way
-  
-    - Saves lot of items as the solution is tested and proven
-  
-4.Ruby variables
-
-global variable ($apple) - A global variable name always starts with $ , a single variable, which is available across classes
-
-instance variable (@apple) -always starts with a @ sign . Instance variables are available across methods for any specified instance or object i.e. instance variables can change from object to object.
-
-class variable (@@apple) -A class variable name always starts with @@ sign. It is available across different objects. 
-
-local variable (apple) - A local variable name always starts with a lowercase letter
-
-constant (APPLE)
-
-** Special about Ruby
 -- Nothing called as variable types, everything is a object
 
 -- Ruby does not support method overloading as its a dynamically  typed language
@@ -52,5 +35,5 @@ constant (APPLE)
 
 
 
-#Reference
+## Reference
 https://www.rubyguides.com/ruby-tutorial/thinking-like-programmer/
