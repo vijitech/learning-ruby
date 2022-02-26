@@ -1,6 +1,6 @@
 ## About this project
 
-    This project is built to lean basics of ruby and Oops concept in ruby . Each topic is explained in differnt ruby files with comments . Comments ellaborate about concepts behind the code
+    This project is built to lean basics of ruby language and Oops concept in ruby . Each topic is explained in differnt ruby files with comments . Comments ellaborate about concepts behind the code
 
 ## How to run
     Just clone this project and run individual ruby files
